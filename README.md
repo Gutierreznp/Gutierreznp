@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, My name is Nicolas Gutierrez Plaza</h1>
 <h3 align="center">I'm Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gutierreznp&label=Profile%20views&color=0e75b6&style=flat" alt="gutierreznp" /> </p>
+- 🤝 I’m currently **interested on start working in the industry.**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gutierreznp" alt="gutierreznp" /></a> </p>
+- 🔭 I’m currently **working on my final project to finish Henry Bootcamp.**
 
 - 📫 How to reach me **gutierreznp@gmail.com**
 
@@ -20,4 +20,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gutierreznp&show_icons=true&locale=en" alt="gutierreznp" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gutierreznp&" alt="gutierreznp" /></p>
